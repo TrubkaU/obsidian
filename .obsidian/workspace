@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0aa5822223a72dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "06232729715d4a92",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a818f20b34929fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7acc93cc55e8f5f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4991f237701fd9b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "034f00dd971c8ebc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0b5221130cf90e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a5d0372353286c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f22edf6609f85c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "06232729715d4a92",
+  "lastOpenFiles": [
+    "Upload file to Samsung Store.md",
+    "My Github Repo.md",
+    "Create JWT.md",
+    "Run Unit Tests in paralllel.md",
+    "00 Gradle.md",
+    "The tests problem.md",
+    "Run CircleCI locally.md",
+    "CircleCI.md",
+    "CircleCi orb for run the Flank.md",
+    "00 CircleCI.md"
+  ]
+}
