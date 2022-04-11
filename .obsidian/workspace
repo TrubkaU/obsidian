@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "06232729715d4a92",
+        "id": "5ae3368e2b865e1f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RecyclerView, Adapter Delegates.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "recycler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RecyclerView, Adapter Delegates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06232729715d4a92",
+  "active": "5ae3368e2b865e1f",
   "lastOpenFiles": [
-    "Upload file to Samsung Store.md",
-    "My Github Repo.md",
+    "RecyclerView, Adapter Delegates.md",
+    "Google Ruby classes to automate delivery to Huawei store.md",
+    "Untitled.md",
+    "00 Fastlane.md",
+    "00 Huawei store.md",
     "Create JWT.md",
-    "Run Unit Tests in paralllel.md",
-    "00 Gradle.md",
-    "The tests problem.md",
-    "Run CircleCI locally.md",
-    "CircleCI.md",
-    "CircleCi orb for run the Flank.md",
-    "00 CircleCI.md"
+    "00 Algoritm.md",
+    "00 Android.md",
+    "Samsung Store.md",
+    "Run Unit Tests in paralllel.md"
   ]
 }
