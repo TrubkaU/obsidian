@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae3368e2b865e1f",
+        "id": "20b2c7a7c4d8d5d1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RecyclerView, Adapter Delegates.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recycler",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -48,12 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267
   },
   "right": {
     "id": "c0b5221130cf90e3",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RecyclerView, Adapter Delegates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ae3368e2b865e1f",
+  "active": "20b2c7a7c4d8d5d1",
   "lastOpenFiles": [
-    "RecyclerView, Adapter Delegates.md",
-    "Google Ruby classes to automate delivery to Huawei store.md",
+    "Проблема распределения или все стремится в большую кучу.md",
+    "Kover, measure coverage.md",
+    "It's a way to display Gradle dependencies.md",
+    "Bazel.md",
+    "Refied.md",
     "Untitled.md",
-    "00 Fastlane.md",
-    "00 Huawei store.md",
-    "Create JWT.md",
-    "00 Algoritm.md",
-    "00 Android.md",
+    "Flank.md",
+    "Proxy Android app.md",
     "Samsung Store.md",
-    "Run Unit Tests in paralllel.md"
+    "SDK.md"
   ]
 }
