@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9f59f8e8a66c61a",
+        "id": "ebc5c4b0508a09c1",
         "type": "tabs",
         "children": [
           {
-            "id": "52766a9c6dd1f113",
+            "id": "983530530e832cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service.md",
+                "file": "Coroutine Dispatchers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dispa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Service.md",
+                "file": "Coroutine Dispatchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +105,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52766a9c6dd1f113",
+  "active": "983530530e832cbc",
   "lastOpenFiles": [
-    "Android Components.md",
-    "Content Provides.md",
-    "Activity.md",
-    "patterns/MVI.md",
-    "patterns/MVVM.md",
-    "00 Patterns.md",
-    "Fragment.md",
-    "patterns/MVC.md",
+    "Coroutine Cancellation.md",
+    "Throwable.md",
+    "Custom Lint Rules.md",
+    "Detekt.md",
+    "Kover.md",
+    "CICD tooling.md",
+    "DNV.md",
+    "JobScheduler.md",
+    "00 Lint.md",
+    "Coroutine Continuation.md",
+    "Coroutine.md",
+    "CoroutineExceptionHandler.md",
+    "sources/Pasted image 20230420092719.png",
+    "sources/Pasted image 20230420090934.png",
+    "sources/Pasted image 20230420090917.png",
+    "sources/Pasted image 20230420090651.png",
+    "Process.md",
+    "SOLID.md",
+    "Clean Architecture.md",
+    "Coroutine Dispatchers.md",
+    "Fragment Lifecycle.md",
+    "Run Espresso tests.md",
+    "HeidiSQL.md",
+    "Refresh knowladge.md",
+    "Java Util Concurrency.md",
     "patterns/MVP.md",
-    "ViewModel.md"
+    "Scheduled tasks.md",
+    "View.md",
+    "sources/Pasted image 20230328133745.png",
+    "Structured Concurency.md",
+    "Flow.md",
+    "Untitled 1.canvas"
   ]
 }

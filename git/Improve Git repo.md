@@ -1,4 +1,4 @@
-#git 
+
 
 So, the main problem of [[00 Git]] repo is during the time the repo will grow, and on [[00 CircleCI]] side you have to clone all changes, which has been added and it'll take additional time.
 

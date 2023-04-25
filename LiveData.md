@@ -1,0 +1,1 @@
+SingleLiveEvent will trigger once and automatically will be cleared. That allows to double trigger after #screen_rotation

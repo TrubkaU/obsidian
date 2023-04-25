@@ -29,5 +29,5 @@ fun callMethod(val name: Name)
 ```
 It works fast, and impossible to set String
 
-Here the good article:
+Here a good article:
 https://quickbirdstudios.com/blog/kotlin-value-classes/

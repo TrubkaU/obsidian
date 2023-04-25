@@ -1,5 +1,4 @@
-#android 
-#gradle 
+
 [[00 Android]] have the different buildTypes, that describes https://developer.android.com/studio/build/build-variants 
 
 So, briefly we are able to create the resource folder for 'debug' and 'release' folders:

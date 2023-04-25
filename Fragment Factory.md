@@ -6,7 +6,7 @@ The constructor must be empty since Android can create the Fragments after rotat
 
 But how to provide some dependencies to the Fragment?
 I know at least 3 ways:
-1. Use the Dependency Injection framework, like [[Hilt]], or [[Koin]]
+1. Use the Dependency Injection framework, like [[Hilt vs Dagger]], or [[Koin]]
 ``` Kotlin
 class SomeFragment: BaseFragment() {
 
