@@ -14,3 +14,10 @@ Process Priority [[Android Proces and Priority]]
 2. It is possible to run  [[Android Components]] for one App with different processes. Need to set tag `android:process=child1` in AndroidManifest.xml 
 3. But for that case the resources will be not the same, which 
 4. means the DI tree will be duplicated since each process has own resources
+
+Processes interact between the mechanisms:
+1. Intent + putExtra (based on Binder)
+2. Content Provider (simple data structure + file)
+3. Messanger (based on the Handler)
+
+![[Pasted image 20230503105158.png]]

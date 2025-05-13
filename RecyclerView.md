@@ -9,8 +9,6 @@ You can merge several adapters in one and it's possible to create a Header and a
 
 
 
-
-
 ## Blinking 
 Is an [[Errors]] that appears in RecylcerView
 Sometimes an item can start blicking when updated one element on the item is.

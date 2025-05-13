@@ -1,35 +1,9 @@
-### S - Single Resposibility
-
-
-Each class should have a single responsibility. In different cases, it will lead to growing the classes into the big object 
-
-Benefits:
-1. Easy test
-2. Smaller classes
-3. Better understanding
-
-```kotlin
-class Car {
-	fun getModel(): String
-	fun maxSpeed(): Int
-	fun order() // two resposibilities
-}
-
-/* Split double responsibility by different classes */
-class Car {
-	fun getModel(): Model
-	fun getSpeed(): String
-}
-
-class OrdferService {
-	fun order(car: Car)
-}
-```
-
+### S - Single Responsibility
+[[Single Responsibility]]
 
 ### O - Open to Extention Close to Modification
 
-Class should be open to Extention but closed to modification:
+The class should be open to Extention but closed to modification:
 ```kotlin
 class enum MessageType {
 	EMAIL, SMS
@@ -103,20 +77,8 @@ interface OtherPayment {
 ```
 
 ### D - Dependency Inversion
-Use the interfaces instead of the real class:
-```kotlin
-interface Keyboard { }
-
-class EngKeyboard : Keyboard
-
-class Windows98Machine (val keyboard: Keyboard) 
-
-fun main() {
-	Windows98Machine(EngKeyboard())
-}
-```
-
-#### Controversial points
+[[Dependency Inversion]]
+### Controversial points
 
 As the result, the code will be complicated and extra complicated. 
 No reasons to create extra levels

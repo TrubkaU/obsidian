@@ -16,3 +16,17 @@ SharedFlow can emmit the same value multiple times. Good to use for navigation, 
 StateFlow to keep the state for Compose UI.
 
 StateFlow must have the default init value, SharedFlow not.
+
+It's possible to collect state with lifecycle:
+```kotlin
+val state = flow {
+
+}.stateIn(
+	viewModelScope, 
+	SharingState.WhileSubscribed(5000l)
+)
+
+val state by viewModel.state.collectAsStateWithLifeCycle() 
+```
+
+Since if you will navigate to the next screen the previous one will take the events from the flow since the viewModelScop is active.

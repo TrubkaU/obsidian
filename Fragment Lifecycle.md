@@ -13,3 +13,5 @@ FragmentManager add, replace
 
 
 What's going on with Fragment View if the fragment will go to the stack?
+
+So, the wrong use of the lifecycle may lead to [[Memory Leaks]]

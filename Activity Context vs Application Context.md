@@ -23,3 +23,5 @@ Register BroadcastReceiver.
 ```
 
 Don't use Application Context in Singletons of course!
+
+If you use the applicationContext as the resource provider, there is no guarantee that the new resources will be used after changing the [[Theme vs Style]] for example.

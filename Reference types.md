@@ -7,7 +7,7 @@ Java provides 4 types of references:
 Each of these references is collected in a different way by the garbage collector.
 
 
-WeakReference used for WeakHashMap, details in [[HashMap]]
+[[WeakReference]] used for WeakHashMap, details in [[HashMap]]
 For Android, it is possible to set Activity as the WeakReference for example to the ViewModel or AsyncTask despite that it's an anti-pattern, but it will allow avoiding memory leaks.
 
 ```java

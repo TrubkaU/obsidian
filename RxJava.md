@@ -1,0 +1,3 @@
+RxJava is a reactive stream processing library for Java that is built on the principles of reactive programming. One of the main features of reactive programming is the use of asynchronous processing, which allows for non-blocking, event-driven programming.
+
+In RxJava, streams of events are represented by Observables, which can emit events asynchronously and process them in a non-blocking way. This allows for efficient handling of large amounts of data and enables responsive, event-driven applications.

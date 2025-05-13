@@ -24,7 +24,7 @@ In [[00 Android]] platform, [[00 Kotlin]] is a better language than [[00 Java]]
 3. Also:
 	1. inline functions: let, also, run, apply
 	2. work with collections: filters, forEach, map 
-	3. Allows to create extensions for third-part classes
+	3. Allows creating extensions for third-party classes
 	4. compact syntax
 	5. easy to write DSL 
 	6. default functions arguments
